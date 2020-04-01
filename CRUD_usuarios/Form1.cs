@@ -68,5 +68,22 @@ namespace CRUD_usuarios
             }
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int? id = GetId();
+            if (id != null)
+            {
+              using(Alumnos_DiProEntities db = new Alumnos_DiProEntities())
+                {
+                    MAESTRO_PR oTabla = db.MAESTRO_PR.Find(id);
+                    db.MAESTRO_PR.Remove(oTabla);
+
+                    db.SaveChanges();
+                }
+
+                refrescar();
+            }
+        }
     }
 }
