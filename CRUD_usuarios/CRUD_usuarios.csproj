@@ -85,6 +85,7 @@
     <Compile Include="Presentation\FrmTabla.Designer.cs">
       <DependentUpon>FrmTabla.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentation\tabla.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

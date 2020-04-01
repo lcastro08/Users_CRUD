@@ -36,6 +36,18 @@ namespace CRUD_usuarios
         }
         #endregion
 
+        private int? GetId()
+        {
+            try
+            {
+              return  int.Parse(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[0].Value.ToString());
+            }
+            catch
+            {
+                return null;
+            }
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             Presentation.FrmTabla oFrmTabla = new Presentation.FrmTabla();
@@ -46,7 +58,15 @@ namespace CRUD_usuarios
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            int? id = GetId();
+            if (id != null )
+            {
+                Presentation.FrmTabla oFrmTabla = new Presentation.FrmTabla(id);
+                oFrmTabla.ShowDialog();
+
+                refrescar();
+            }
+
         }
     }
 }
