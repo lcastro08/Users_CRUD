@@ -1,0 +1,16 @@
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\bin\Debug\CRUD_usuarios.exe.config
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\bin\Debug\CRUD_usuarios.exe
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\bin\Debug\CRUD_usuarios.pdb
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\bin\Debug\EntityFramework.dll
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\bin\Debug\EntityFramework.xml
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\obj\Debug\CRUD_usuarios.csprojAssemblyReference.cache
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\obj\Debug\CRUD_usuarios.Form1.resources
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\obj\Debug\CRUD_usuarios.Properties.Resources.resources
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\obj\Debug\CRUD_usuarios.csproj.GenerateResource.cache
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\obj\Debug\CRUD_usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\obj\Debug\CRUD_usuarios.csproj.CopyComplete
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\obj\Debug\CRUD_usuarios.exe
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\obj\Debug\CRUD_usuarios.pdb
+C:\Users\Luis Castro\Documents\Projects\CRUD_USERS\CRUD_usuarios\obj\Debug\CRUD_usuarios.Presentation.FrmTabla.resources
